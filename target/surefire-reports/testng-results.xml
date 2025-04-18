@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-18T20:16:07 IST" name="Surefire suite" finished-at="2025-04-18T20:16:21 IST" duration-ms="14105">
+    <groups>
+    </groups>
+    <test started-at="2025-04-18T20:16:07 IST" name="Surefire test" finished-at="2025-04-18T20:16:21 IST" duration-ms="14105">
+      <class name="com.example.selenium.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.selenium.LoginTest@5d740a0f]" started-at="2025-04-18T20:16:07 IST" name="setup" finished-at="2025-04-18T20:16:21 IST" duration-ms="13829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:com.example.selenium.LoginTest@5d740a0f]" started-at="2025-04-18T20:16:21 IST" name="testLogin" finished-at="2025-04-18T20:16:21 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.selenium.LoginTest@5d740a0f]" started-at="2025-04-18T20:16:21 IST" name="tearDown" finished-at="2025-04-18T20:16:21 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.selenium.LoginTest -->
+      <class name="com.example.selenium.AppTest">
+        <test-method signature="testExample()[pri:0, instance:com.example.selenium.AppTest@c8e4bb0]" started-at="2025-04-18T20:16:21 IST" name="testExample" finished-at="2025-04-18T20:16:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExample -->
+      </class> <!-- com.example.selenium.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
